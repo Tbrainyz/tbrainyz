@@ -48,9 +48,6 @@ I'm currently interning at **HNG**, building and shipping in a team under real d
 
 **Cloud & tools:** ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
-## Beyond code
-
-I also run creator campaigns for brands on TikTok, Instagram and X. It taught me to write short, say it clearly, and care how a product feels to the person using it.
 
 ## Right now
 
